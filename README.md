@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+vaderSentiment
+sqlalchemy
+sqlite3
